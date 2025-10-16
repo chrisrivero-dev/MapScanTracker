@@ -1,38 +1,64 @@
-# ScanMapsApp
+# 🗂️ ScanMapsApp
 
-**Local Desktop Tool for Tracking and Logging Completed Assessor Map Scans**
+A **Tkinter-based desktop application** for GIS and CAD technicians to log parcel cuts, scans, and map updates with automatic timestamps and Excel export support.  
+Designed for transparency, efficiency, and easy adoption within Assessor’s Office workflows.
 
-ScanMapsApp is a lightweight Python/Tkinter application designed to simplify how the Orange County Assessor’s Office Mapping Division logs and tracks completed map scans.  
-It provides a user-friendly interface for technicians to record cut numbers, software used (ArcGIS Pro or MicroStation), employee names, and timestamps — automatically exporting data to Excel for central tracking.
-
----
-
-## Features
-
-- Simple Tkinter-based GUI for easy data entry  
-- Automatic timestamp logging for every record  
-- Exports all entries to a shared Excel file (auto-append mode)  
-- Technician name dropdown and validation  
-- Local storage for offline use (no internet connection required)  
-- Optional email notification when a cut is submitted  
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-lightgrey.svg)](https://docs.python.org/3/library/tkinter.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Built with Love](https://img.shields.io/badge/Built%20with❤️-Tkinter%20%26%20Pandas-orange.svg)](#)
 
 ---
 
-## Tech Stack
+## ✨ Features
+- ✅ Simple Tkinter-based interface for fast data entry  
+- 🕓 Auto-logs date and timestamp with every record  
+- 🧭 Technician and software dropdowns (ArcGIS Pro / MicroStation)  
+- 📊 Saves entries to an Excel file (`Scan_Logs.xlsx`) in append mode  
+- ⚙️ Built for readability, portability, and transparency  
+
+---
+
+ScanMapsApp is a Python/Tkinter application developed by **Christopher Rivero** for the Orange County Assessor’s Office (Mapping Division).  
+It simplifies how mapping technicians log and track completed map scans, providing an easy-to-use GUI for quick data entry and automatic Excel logging.
+
+---
+
+## ✨ Features
+
+- 🧾 Simple Tkinter-based interface for fast data entry  
+- 📅 Auto-logs date and timestamp with every record  
+- 👩‍💻 Technician and software dropdowns (ArcGIS Pro / MicroStation)  
+- 💾 Saves entries to an Excel file (`Scan_Logs.xlsx`) in append mode  
+- 🧠 Built with readability, portability, and transparency in mind  
+
+
+---
+## 🚀 Usage Example
+
+Run the app from your terminal:
+```bash
+python ScanMapsApp.py
+
+## 🧠 Tech Stack
 
 | Component | Description |
 |------------|--------------|
 | **Python 3.x** | Core application logic |
-| **Tkinter** | Graphical user interface |
-| **pandas / openpyxl** | Excel file handling and data export |
-| **os / datetime** | File system and timestamp utilities |
-| **smtplib (optional)** | Email notification integration |
+| **Tkinter** | GUI interface |
+| **pandas / openpyxl** | Excel creation and export |
+| **datetime / os** | Timestamp and file utilities |
 
 ---
 
-## Installation
+## 📦 Installation
 
-### 1. Clone this repository
+#### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/chrisrivero-dev/ScanMapsApp.git
 cd ScanMapsApp
+python -m venv venv
+source venv/bin/activate   # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
+python ScanMapsApp.py
+
