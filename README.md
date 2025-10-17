@@ -20,7 +20,7 @@ Designed for transparency, efficiency, and easy adoption within Assessor’s Off
 
 ---
 
-ScanMapsApp is a Python/Tkinter application developed by **Christopher Rivero** for the Orange County Assessor’s Office (Mapping Division).  
+MapScanTracker is a Python/Tkinter application developed by **Christopher Rivero** for the Orange County Assessor’s Office (Mapping Division).  
 It simplifies how mapping technicians log and track completed map scans, providing an easy-to-use GUI for quick data entry and automatic Excel logging.
 
 ---
