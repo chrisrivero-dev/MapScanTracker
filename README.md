@@ -1,4 +1,5 @@
-# ScanMapsApp
+# MapScanTracker
+
 
 A **Tkinter-based desktop application** for GIS and CAD technicians to log parcel cuts, scans, and map updates with automatic timestamps and Excel export support.  
 Designed for transparency, efficiency, and easy adoption within Assessor’s Office workflows.
