@@ -56,7 +56,7 @@ python ScanMapsApp.py
 
 #### Clone this repository
 ```bash
-git clone https://github.com/chrisrivero-dev/ScanMapsApp.git
+git clone https://github.com/chrisrivero-dev/MapScanTracker.git
 cd ScanMapsApp
 python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
