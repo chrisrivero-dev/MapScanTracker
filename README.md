@@ -36,18 +36,56 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 ```bash
 git clone https://github.com/chrisrivero-dev/MapScanTracker.git
 cd MapScanTracker
+```
 
 #### 2️⃣ Create a virtual environment (recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
+```
 
 #### 3️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 #### 4️⃣ Launch the app
+```bash
 python ScanMapsApp.py
+```
 
+---
 
+## ▶️ Usage
 
+Run the app from your terminal after installation:
+```bash
+python ScanMapsApp.py
+```
+
+The app will open a Tkinter interface for entering:
+- Cut Number  
+- Technician Name  
+- Software Used (ArcGIS Pro or MicroStation)  
+- Auto-generated Date and Timestamp  
+
+All entries are automatically appended to **Scan_Logs.xlsx** in the working directory.
+
+---
+
+## 👤 Author
+
+**Christopher Rivero**  
+GIS/CAD Support Specialist • Python Automation Developer  
+Orange County Assessor’s Office – Mapping Division  
+
+📧 cpcar8383@hotmail.com  
+🔗 [linkedin.com/in/christopher-rivero-47b03b97](https://www.linkedin.com/in/christopher-rivero-47b03b97)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use or adapt it for your own mapping or automation workflows.
+
+---
