@@ -1,4 +1,4 @@
-# 🗂️ MapScanTracker
+# MapScanTracker
 
 **A Tkinter-based desktop application for GIS and CAD technicians to log parcel cuts, scans, and map updates with automatic timestamps and Excel export support.**
 
@@ -9,17 +9,17 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧾 Simple Tkinter interface for fast data entry  
-- 📅 Auto-logs date and timestamp with every record  
-- 👩‍💻 Dropdowns for technician and software selection (ArcGIS Pro / MicroStation)  
-- 💾 Saves entries to an Excel file (`Scan_Logs.xlsx`) in append mode  
-- 🧠 Clean, readable Python code built for portability and transparency  
+- Simple Tkinter interface for fast data entry  
+- Auto-logs date and timestamp with every record  
+- Dropdowns for technician and software selection (ArcGIS Pro / MicroStation)  
+- Saves entries to an Excel file (`Scan_Logs.xlsx`) in append mode  
+- Clean, readable Python code built for portability and transparency  
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Component | Description |
 |------------|--------------|
@@ -30,7 +30,7 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the app from your terminal:
 
