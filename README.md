@@ -30,43 +30,37 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## Installation
+## 📦 Installation
 
-#### 1️ Clone this repository
+#### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/chrisrivero-dev/MapScanTracker.git
 cd MapScanTracker
 
-2️ Create a virtual environment (recommended)
+
+2️⃣ Create a virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 
-3️ Install dependencies
-pip install -r requirements.txt
-
-4️ Launch the app
+4️⃣ Launch the app
 python ScanMapsApp.py
 
-Usage
+▶️ Usage
 
 Run the app from your terminal:
 
 python MapScanTracker.py
 
 
-Author
+---
 
-Christopher Rivero
-GIS/CAD Support Specialist • Python Automation Developer
-Orange County Assessor’s Office – Mapping Division
-
-cpcar8383@hotmail.com
-
-linkedin.com/in/christopher-rivero-47b03b97
-
-License
-
-This project is licensed under the MIT License — feel free to use or adapt it.
-
+### ✅ After you do this:
+Your “Installation” section will look perfect — with:
+- Each command group in its own blue box  
+- Bold headers outside the boxes  
+- Proper separation between “Installation,” “Usage,” and “Author”  
 
 ---
+
+
+
