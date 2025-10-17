@@ -36,3 +36,23 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 ```bash
 git clone https://github.com/chrisrivero-dev/MapScanTracker.git
 cd MapScanTracker
+
+#### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/chrisrivero-dev/MapScanTracker.git
+cd MapScanTracker
+
+#### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/chrisrivero-dev/MapScanTracker.git
+cd MapScanTracker
+
+#### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/chrisrivero-dev/MapScanTracker.git
+cd MapScanTracker
+
+#### 1️⃣ Clone this repository
+```bash
+git clone https://github.com/chrisrivero-dev/MapScanTracker.git
+cd MapScanTracker
