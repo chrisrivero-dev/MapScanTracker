@@ -5,7 +5,8 @@
 Designed for transparency, efficiency, and easy adoption within **Assessor’s Office workflows**, MapScanTracker provides a modern way to track mapping progress while maintaining clean digital records.  
 Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portable, and easy to maintain.
 
-![App Screenshot](assets/ScanMapsApp_UI.png)
+![App Screenshot](assets/MapScanTracker_UI.png)
+
 
 ---
 
