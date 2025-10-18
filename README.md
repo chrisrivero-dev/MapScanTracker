@@ -6,8 +6,11 @@ Designed for transparency, efficiency, and easy adoption within **Assessor’s O
 Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portable, and easy to maintain.
 
 <p align="center">
-  <img src="https://github.com/chrisrivero-dev/MapScanTracker/assets/your-upload-link.jpeg" alt="App Screenshot" width="600">
+  <a href="https://github.com/user-attachments/assets/44bd4019-11ab-43d8-acaa-949c14ce727c">
+    <img src="https://github.com/user-attachments/assets/44bd4019-11ab-43d8-acaa-949c14ce727c" alt="App Screenshot" width="600">
+  </a>
 </p>
+
 
 
 
