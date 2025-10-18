@@ -1,4 +1,4 @@
-# 🗂️ MapScanTracker
+# MapScanTracker
 
 **A Tkinter-based desktop application for GIS and CAD technicians to log parcel cuts, scans, and map updates with automatic timestamps and Excel export support.**
 
@@ -9,7 +9,7 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## ✨ Features
+## Features
 
 - Simple Tkinter interface for fast data entry  
 - Auto-logs date and timestamp with every record  
@@ -19,7 +19,7 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Component | Description |
 |------------|--------------|
@@ -30,7 +30,7 @@ Built with **Python, Tkinter, pandas, and openpyxl**, it’s lightweight, portab
 
 ---
 
-## 📦 Installation
+## Installation
 
 #### 1️⃣ Clone this repository
 ```bash
@@ -73,18 +73,18 @@ All entries are automatically appended to **Scan_Logs.xlsx** in the working dire
 
 ---
 
-## 👤 Author
+## Author
 
 **Christopher Rivero**  
 GIS/CAD Support Specialist • Python Automation Developer  
 Orange County Assessor’s Office – Mapping Division  
 
-📧 cpcar8383@hotmail.com  
-🔗 [linkedin.com/in/christopher-rivero-47b03b97](https://www.linkedin.com/in/christopher-rivero-47b03b97)
+cpcar8383@hotmail.com  
+[linkedin.com/in/christopher-rivero-47b03b97](https://www.linkedin.com/in/christopher-rivero-47b03b97)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — feel free to use or adapt it for your own mapping or automation workflows.
 
